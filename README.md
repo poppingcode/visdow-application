@@ -4,7 +4,7 @@ the traning visualization of pytorch by visdom
 ## drawing_line.py
 - Modules that need to be installed are in import
 
-## data_test.py
+## data_test.log
 - Be use for test
 
 ### Execution steps
